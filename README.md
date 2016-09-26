@@ -2,6 +2,8 @@
 
 Simple  app connecting node, react and redux with sequlize.
 
+##### NOTE - node js and npm must be installed prior to this installation.
+
 - Go to server folder and run **$ npm install**
 - Go to client folder and run **$ npm install**
 
